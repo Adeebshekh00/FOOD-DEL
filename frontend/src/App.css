@@ -1,0 +1,5 @@
+.app {
+    margin: 0 auto;
+    width: fit-content; /* This will size the content to its natural width */
+  }
+  
